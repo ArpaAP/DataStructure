@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_02\4\main.c(9,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_02\4\main.c(71,24): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  4.vcxproj -> C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_02\x64\Debug\4.exe

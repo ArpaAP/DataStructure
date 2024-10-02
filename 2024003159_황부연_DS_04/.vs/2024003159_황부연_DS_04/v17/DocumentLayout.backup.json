@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arpaap\\source\\repos\\2024003159_\uD669\uBD80\uC5F0_DS_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69CBF4D-E6A8-46FF-87C9-9CC6ACF5A411}|3\\3.vcxproj|C:\\Users\\arpaap\\source\\repos\\2024003159_\uD669\uBD80\uC5F0_DS_04\\3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69CBF4D-E6A8-46FF-87C9-9CC6ACF5A411}|3\\3.vcxproj|solutionrelative:3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\arpaap\\source\\repos\\2024003159_\uD669\uBD80\uC5F0_DS_04\\3\\main.c",
+              "RelativeDocumentMoniker": "3\\main.c",
+              "ToolTip": "C:\\Users\\arpaap\\source\\repos\\2024003159_\uD669\uBD80\uC5F0_DS_04\\3\\main.c",
+              "RelativeToolTip": "3\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T06:04:51.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
