@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_01\2\main.c(18,11): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_01\2\main.c(12,11): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
-C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_01\2\main.c(11,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
-  2.vcxproj -> C:\Users\2024003159_41043\source\repos\2024003159_황부연_DS_01\x64\Debug\2.exe

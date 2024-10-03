@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\arpaap\source\repos\2024003159_황부연_DS_04\3\main.c(7,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\arpaap\source\repos\2024003159_황부연_DS_04\3\main.c(8,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  3.vcxproj -> C:\Users\arpaap\source\repos\2024003159_황부연_DS_04\x64\Debug\3.exe
