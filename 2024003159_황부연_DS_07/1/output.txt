@@ -1,0 +1,2 @@
+postfix expression : 8 2 / 3 - 4 2 * + 
+the evaluation value : 9
